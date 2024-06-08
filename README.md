@@ -1,5 +1,5 @@
 # Raven-B4-for-Roblox
-![Raven B4 Background](https://github.com/NearB4/Raven-B4-For-Roblox/assets/171292678/94429da2-7203-4637-ba50-f2b331c45715)
+![Raven B4 Background](https://github.com/NearB4/Raven-B4-For-Roblox/assets/171292678/24870e83-bb7e-4cc0-830e-90708eb943e5)
 
 Credits:
 
