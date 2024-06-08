@@ -1466,7 +1466,7 @@ Client:CreateToggle({
 Client:CreateToggle({
     Name = "Raven B4 Youtube",
     Callback = function(Callback) 
-        setclipboard("https://discord.gg/4SpwqN979V")
+        setclipboard("https://www.youtube.com/@Just_a_kamo_twin")
         if Callback then
             shared:createnotification("Youtube link copied to Clipboard!",1)
         end
